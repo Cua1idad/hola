@@ -1,2 +1,1 @@
-Este es un archivo de prueba
-g
+Este es un archivo de prueba.
